@@ -3,7 +3,7 @@
 This page contains an open-source and automated battery of working memory (WM) tasks that tap into different functional aspects of WM (simultaneous storage and processing of information, continuous updating of mental representations, and binding of information elements into structures).
 
 ## Features 
-- The instrument includes three complex spans (reading span, operation span, and symmetry span), two updating tasks (n-back task and memory updating task), and two binding tasks (binding and maintenance task and multimodal span).*
+- The instrument includes three complex spans (reading span, operation span, and symmetry span), two updating tasks (n-back task and memory updating task), and two binding tasks (binding and maintenance task and multimodal span).<sup>*</sup>
 - It was entirely programmed in [OpenSesame](http://osdoc.cogsci.nl/), using both Python and OpenSesame scripting.
 - The battery possesses some flexible features that can be implemented without any programming knowledge. For instance, users can choose to only administrate a portion of the tasks or a single task. 
 - It is suitable for group testing, it is completely computer-paced, it has embedded instructions for each task, and it scores itself automatically. 
@@ -11,7 +11,7 @@ This page contains an open-source and automated battery of working memory (WM) t
 - It includes a data processing script that converts all data collected into an easily interpretable format that is ready for data analysis (in platforms like R or SPSS).
 - The instrument is available in Portuguese and English — however, we only assessed the psychometric properties of the former version.
 
-*the English version of the battery does not include the reading span.
+<sub>*the English version of the battery does not include the reading span.*</sub>
 
 ## Installing and running the battery 
 To install and use the battery you need to download the folder that contains the version of the battery that is compatible with your operating system (Windows or Mac OS) and fulfills your language requirements — Portuguese (PT) or English (EN). To do so, left-click on the folder that you intend to download. Next, left-click on the option “View raw”. When the download is completed, unzip the folder containing the WM battery and paste it on your desktop. Open the main folder of the WM battery and read the file called “IMP_what_is_in_this_folder” to get acquainted with the contents of the WM battery. Next, read the installation, user, and interpretation guides to learn how to install and use the battery and how to interpret data collected and processed by the scripts included in the battery.
