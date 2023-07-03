@@ -33,7 +33,7 @@ Esta página contém uma bateria open-source e automatizada de tarefas de memór
 
 ## Características 
 - O instrumento inclui três complex spans (reading span, operation span e symmetry span), duas updating tasks (n-back task e memory updating task), e duas binding tasks (binding and maintenance task e multimodal span). 
-- Este foi completamente programado em Opensesame, utilizando a linguagem de programação Python e OpenSesame scripting.
+- Este foi completamente programado em [OpenSesame](http://osdoc.cogsci.nl/), utilizando a linguagem de programação Python e OpenSesame scripting.
 - A bateria possui algumas características flexíveis que podem ser implementadas sem nenhum conhecimento de programação. Por exemplo, os utilizadores podem administrar apenas uma parte das tarefas ou até uma só prova.
 - O instrumento pode ser administrado de forma simultânea a vários participantes, é completamente automatizado, possui instruções integradas para cada uma das tarefas e cota os resultados dos participantes em cada uma das provas automaticamente. 
 - A ordem de apresentação das tarefas é contrabalanceada automaticamente entre participantes (em administrações completas).
