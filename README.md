@@ -34,7 +34,7 @@ If you have any questions or suggestions regarding the battery or future studies
 Esta página contém uma bateria _open-source_ e automatizada de tarefas de memória de trabalho (MT)que avaliam diferentes aspetos funcionais da MT (capacidade de armazenar e processar informação de forma simultânea, atualização contínua de representações mentais, capacidade de ligar diferentes características de estímulos e criar novas estruturas relacionais).
 
 ## Características 
-- O instrumento inclui três complex spans (reading span, operation span e symmetry span), duas updating tasks (n-back task e memory updating task), e duas binding tasks (binding and maintenance task e multimodal span).* 
+- O instrumento inclui três complex spans (reading span, operation span e symmetry span), duas updating tasks (n-back task e memory updating task), e duas binding tasks (binding and maintenance task e multimodal span).<sup> * </sup>   
 - Este foi completamente programado em [OpenSesame](http://osdoc.cogsci.nl/), utilizando a linguagem de programação Python e e a linguagem de _scripting_ do OpenSesame .
 - A bateria possui algumas características flexíveis que podem ser implementadas sem nenhum conhecimento de programação. Por exemplo, os utilizadores podem administrar apenas uma parte das tarefas ou até uma só prova.
 - O instrumento pode ser administrado de forma simultânea a vários participantes, é completamente automatizado, possui instruções integradas para cada uma das tarefas e cota os resultados dos participantes em cada uma das provas automaticamente. 
@@ -42,7 +42,7 @@ Esta página contém uma bateria _open-source_ e automatizada de tarefas de mem�
 - A bateria inclui um script de pré-processamento de dados que converte os dados recolhidos num formato facilmente interpretável e pronto para a análise de dados em plataformas como o R e o SPSS.
 - Esta está disponível em Português e Inglês — porém, só avaliámos as propriedades psicométricas da versão portuguesa.
 
-*A versão inglesa da bateria não inclui o reading span.
+<sub> * A versão inglesa da bateria não inclui o reading span. </sub> 
 
 ## Instalar e utilizar a bateria
 Para instalar e utilizar a bateria terá de descarregar a pasta que contém a versão da bateria que é compatível com o seu sistema operativo (Windows ou Mac OS) e que cumpre os seus requisitos de linguagem — português (PT) ou inglês (EN). Para isso, deve pressionar com o botão esquerdo do rato na pasta que contém a versão da bateria que pretende descarregar. De seguida, pressione com o botão esquerdo do rato na opção “_View raw_”. Quando o download terminar, deve descompactar a pasta que contém a bateria com tarefas de MT e movê-la para o seu ambiente de trabalho. Abra a pasta principal da bateria de tarefas de MT e leia o ficheiro intitulado “IMP_o_que_contem_esta_pasta” para se familiarizar com os conteúdos do instrumento. A seguir, leia os guias de instalação, de utilizador e de interpretação para aprender a instalar e utilizar a bateria e saber como deve interpretar os dados recolhidos e processados pelos scritps incluídos na bateria.  
