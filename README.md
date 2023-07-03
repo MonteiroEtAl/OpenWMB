@@ -22,7 +22,7 @@ We recommend using a mouse to administrate the WM battery, especially if you int
 
 ## Publications
 - In the near future, we will publish a scientific paper that will report a validation study and describe the features of the battery in detail. We kindly ask that you cite this work if you use the battery in published research. 
-- The battery runs on Opensesame and uses the Mousetrap plugin. Both these software are open-source. If you use our battery, we kindly ask that you also cite both works, as we would not be able to program and run the battery without them.
+- The battery runs on [OpenSesame](http://osdoc.cogsci.nl/) and uses the [MouseTrap](https://github.com/PascalKieslich/mousetrap-os) plugin. Both these software are open-source. If you use our battery, we kindly ask that you also cite both works, as we would not be able to program and run the battery without them.
 
 ## Contacts
 If you have any questions or suggestions regarding the battery or future studies, you can forward them to the e-mail address uc2021194081@student.uc.pt.
@@ -51,7 +51,7 @@ Recomendamos que utilize um rato durante a administração da bateria, principal
 
 ## Publicações
 Num future próximo, iremos publicar um artigo científico no qual iremos reportar um estudo de validação e descrever as características da bateria em detalhe. Caso utilize este instrumento em qualquer trabalho publicado pedimos encarecidamente que cite este artigo.
-A bateria necessita do Opensesame e o plugin Mousetrap para funcionar. corretamente Ambos os softwares são open-source. Se utilizar a bateria pedimos que também cite estes dois trabalhos.
+A bateria necessita do [OpenSesame](http://osdoc.cogsci.nl/) e o plugin [MouseTrap](https://github.com/PascalKieslich/mousetrap-os) para funcionar. corretamente Ambos os softwares são open-source. Se utilizar a bateria pedimos que também cite estes dois trabalhos.
 
 ## Contactos
 Se tiver alguma questão ou sugestão relacionados com a bateria ou estudos futuros pode direcioná-las para o endereço de e-mail uc2021194081@student.uc.pt.
