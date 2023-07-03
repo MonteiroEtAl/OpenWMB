@@ -10,6 +10,7 @@ This page contains an open-source and automated battery of WM tasks that tap int
 - The order of presentation of the tasks is automatically counterbalanced between-participants (on complete administrations).
 - It includes a data processing script that converts all data collected into an easily interpretable format that is ready for data analysis (in platforms like R or SPSS).
 - The instrument is available in Portuguese and English — however, we only assessed the psychometric properties of the former version.
+
 *the English version of the battery does not include the reading span.
 
 ## Installing and running the battery 
