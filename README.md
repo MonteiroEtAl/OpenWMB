@@ -31,7 +31,7 @@ If you have any questions or suggestions regarding the battery or future studies
 
 
 ## Uma bateria _open-source_ e automatizada de tarefas de memória de trabalho para o OpenSesame. 
-Esta página contém uma bateria _open-source_ e automatizada de tarefas de memória de trabalho que avaliam diferentes aspetos funcionais da memória de trabalho (capacidade de armazenar e processar informação de forma simultânea, atualização contínua de representações mentais, capacidade de ligar diferentes características de estímulos e criar novas estruturas relacionais).
+Esta página contém uma bateria _open-source_ e automatizada de tarefas de memória de trabalho (MT)que avaliam diferentes aspetos funcionais da MT (capacidade de armazenar e processar informação de forma simultânea, atualização contínua de representações mentais, capacidade de ligar diferentes características de estímulos e criar novas estruturas relacionais).
 
 ## Características 
 - O instrumento inclui três complex spans (reading span, operation span e symmetry span), duas updating tasks (n-back task e memory updating task), e duas binding tasks (binding and maintenance task e multimodal span).* 
@@ -45,7 +45,7 @@ Esta página contém uma bateria _open-source_ e automatizada de tarefas de mem�
 *A versão inglesa da bateria não inclui o reading span.
 
 ## Instalar e utilizar a bateria
-Para instalar e utilizar a bateria terá de descarregar a pasta que contém a versão da bateria que é compatível com o seu sistema operativo (Windows ou Mac OS) e que cumpre os seus requisitos de linguagem — português (PT) ou inglês (EN). Para isso, deve pressionar com o botão esquerdo do rato na pasta que contém a versão da bateria que pretende descarregar. De seguida, pressione com o botão esquerdo do rato na opção “View raw”. Quando o download terminar, deve descompactar a pasta que contém a bateria com tarefas de memória de trabalho e movê-la para o seu ambiente de trabalho. Abra a pasta principal da bateria de tarefas de memória de trabalho e leia o ficheiro intitulado “IMP_o_que_contem_esta_pasta” para se familiarizar com os conteúdos do instrumento. A seguir, leia os guias de instalação, de utilizador e de interpretação para aprender a instalar e utilizar a bateria e saber como deve interpretar os dados recolhidos e processados pelos scritps incluídos na bateria.  
+Para instalar e utilizar a bateria terá de descarregar a pasta que contém a versão da bateria que é compatível com o seu sistema operativo (Windows ou Mac OS) e que cumpre os seus requisitos de linguagem — português (PT) ou inglês (EN). Para isso, deve pressionar com o botão esquerdo do rato na pasta que contém a versão da bateria que pretende descarregar. De seguida, pressione com o botão esquerdo do rato na opção “_View raw_”. Quando o download terminar, deve descompactar a pasta que contém a bateria com tarefas de MT e movê-la para o seu ambiente de trabalho. Abra a pasta principal da bateria de tarefas de MT e leia o ficheiro intitulado “IMP_o_que_contem_esta_pasta” para se familiarizar com os conteúdos do instrumento. A seguir, leia os guias de instalação, de utilizador e de interpretação para aprender a instalar e utilizar a bateria e saber como deve interpretar os dados recolhidos e processados pelos scritps incluídos na bateria.  
 
 ## Compatibilidade
 A bateria é compatível com o Microsoft Windows (Vista ou versões mais recentes) e Apple Mac OS.
@@ -55,7 +55,7 @@ Recomendamos que utilize um rato durante a administração da bateria, principal
 
 ## Publicações
 Num future próximo, iremos publicar um artigo científico no qual iremos reportar um estudo de validação e descrever as características da bateria em detalhe. Caso utilize este instrumento em qualquer trabalho publicado pedimos encarecidamente que cite este artigo.
-A bateria necessita do [OpenSesame](http://osdoc.cogsci.nl/) e o plugin [MouseTrap](https://github.com/PascalKieslich/mousetrap-os) para funcionar. corretamente Ambos os softwares são open-source. Se utilizar a bateria pedimos que também cite estes dois trabalhos.
+A bateria necessita do [OpenSesame](http://osdoc.cogsci.nl/) e do plugin [MouseTrap](https://github.com/PascalKieslich/mousetrap-os) para funcionar corretamente- Ambos os softwares são _open-source_. Se utilizar a bateria pedimos que também cite estes dois trabalhos.
 
 ## Contactos
 Se tiver alguma questão ou sugestão relacionados com a bateria ou estudos futuros pode direcioná-las para o endereço de e-mail uc2021194081@student.uc.pt.
