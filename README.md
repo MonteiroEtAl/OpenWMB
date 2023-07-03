@@ -30,12 +30,12 @@ We recommend using a mouse to administrate the WM battery, especially if you int
 If you have any questions or suggestions regarding the battery or future studies, you can forward them to the e-mail address uc2021194081@student.uc.pt.
 
 
-## Uma bateria open-source e automatizada de tarefas de memória de trabalho para o OpenSesame. 
-Esta página contém uma bateria open-source e automatizada de tarefas de memória de trabalho que avaliam diferentes aspetos funcionais da memória de trabalho (capacidade de armazenar e processar informação de forma simultânea, atualização contínua de representações mentais, capacidade de ligar diferentes características de estímulos e criar novas estruturas relacionais).
+## Uma bateria _open-source_ e automatizada de tarefas de memória de trabalho para o OpenSesame. 
+Esta página contém uma bateria _open-source_ e automatizada de tarefas de memória de trabalho que avaliam diferentes aspetos funcionais da memória de trabalho (capacidade de armazenar e processar informação de forma simultânea, atualização contínua de representações mentais, capacidade de ligar diferentes características de estímulos e criar novas estruturas relacionais).
 
 ## Características 
 - O instrumento inclui três complex spans (reading span, operation span e symmetry span), duas updating tasks (n-back task e memory updating task), e duas binding tasks (binding and maintenance task e multimodal span). 
-- Este foi completamente programado em [OpenSesame](http://osdoc.cogsci.nl/), utilizando a linguagem de programação Python e OpenSesame scripting.
+- Este foi completamente programado em [OpenSesame](http://osdoc.cogsci.nl/), utilizando a linguagem de programação Python e e a linguagem de _scripting_ do OpenSesame .
 - A bateria possui algumas características flexíveis que podem ser implementadas sem nenhum conhecimento de programação. Por exemplo, os utilizadores podem administrar apenas uma parte das tarefas ou até uma só prova.
 - O instrumento pode ser administrado de forma simultânea a vários participantes, é completamente automatizado, possui instruções integradas para cada uma das tarefas e cota os resultados dos participantes em cada uma das provas automaticamente. 
 - A ordem de apresentação das tarefas é contrabalanceada automaticamente entre participantes (em administrações completas).
