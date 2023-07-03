@@ -20,7 +20,7 @@ To install and use the battery you need to download the folder that contains the
 The WM battery is compatible with Microsoft Windows (Vista or above) and Apple Mac OS. 
 
 ## Recommendations
-We recommend using a mouse to administrate the WM battery, especially if you intend to employ the multimodal and/or symmetry span. 
+We recommend using a mouse to administrate the WM battery, especially if you intend to employ the multimodal and/or the symmetry span. 
 
 ## Publications
 - In the near future, we will publish a scientific paper that will report a validation study and describe the features of the battery in detail. We kindly ask that you cite this work if you use the battery in published research. 
