@@ -30,7 +30,11 @@ We recommend using a mouse to administrate the WM battery, especially if you int
 If you have any questions or suggestions regarding the battery or future studies, you can forward them to the e-mail address uc2021194081@student.uc.pt.
 
 
+
+
 ---
+
+
 
 
 # Uma bateria _open-source_ e automatizada de tarefas de memória de trabalho para o OpenSesame. 
