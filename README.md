@@ -29,7 +29,9 @@ We recommend using a mouse to administrate the WM battery, especially if you int
 ## Contacts
 If you have any questions or suggestions regarding the battery or future studies, you can forward them to the e-mail address uc2021194081@student.uc.pt.
 
+
 ---
+
 
 # Uma bateria _open-source_ e automatizada de tarefas de memória de trabalho para o OpenSesame. 
 Esta página contém uma bateria _open-source_ e automatizada de tarefas de memória de trabalho (MT)que avaliam diferentes aspetos funcionais da MT (capacidade de armazenar e processar informação de forma simultânea, atualização contínua de representações mentais, capacidade de ligar diferentes características de estímulos e criar novas estruturas relacionais).
