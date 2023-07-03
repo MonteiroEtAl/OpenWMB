@@ -1,6 +1,6 @@
 # An open-source and automated working memory task battery for OpenSesame.
 
-This page contains an open-source and automated battery of WM tasks that tap into different functional aspects of WM (simultaneous storage and processing of information, continuous updating of mental representations, and binding of information elements into structures).
+This page contains an open-source and automated battery of working memory (WM) tasks that tap into different functional aspects of WM (simultaneous storage and processing of information, continuous updating of mental representations, and binding of information elements into structures).
 
 ## Features 
 - The instrument includes three complex spans (reading span, operation span, and symmetry span), two updating tasks (n-back task and memory updating task), and two binding tasks (binding and maintenance task and multimodal span).*
