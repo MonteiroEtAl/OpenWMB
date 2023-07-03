@@ -4,7 +4,7 @@ This page contains an open-source and automated battery of WM tasks that tap int
 
 ## Features 
 - The instrument includes two complex spans (operation span and symmetry span), two updating tasks (n-back task and memory updating task), and two binding tasks (binding and maintenance task and multimodal span). 
-- It was entirely programmed in Opensesame, using both Python and OpenSesame scripting.
+- It was entirely programmed in [OpenSesame](http://osdoc.cogsci.nl/), using both Python and OpenSesame scripting.
 - The battery possesses some flexible features that can be implemented without any programming knowledge. For instance, users can choose to only administrate a portion of the tasks or a single task. 
 - It is suitable for group testing, it is completely computer-paced, it has embedded instructions for each task, and it scores itself automatically. 
 - The order of presentation of the tasks is automatically counterbalanced between-participants (on complete administrations).
