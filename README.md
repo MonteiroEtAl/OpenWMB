@@ -17,7 +17,7 @@ This page contains an open-source and automated battery of working memory (WM) t
 To install and use the battery you need to download the folder that contains the version of the battery that is compatible with your operating system (Windows or Mac OS) and fulfills your language requirements — Portuguese (PT) or English (EN). To do so, left-click on the folder that you intend to download. Next, left-click on the option “View raw”. When the download is completed, unzip the folder containing the WM battery and paste it on your desktop. Open the main folder of the WM battery and read the file called “IMP_what_is_in_this_folder” to get acquainted with the contents of the WM battery. Next, read the installation, user, and interpretation guides to learn how to install and use the battery and how to interpret data collected and processed by the scripts included in the battery.
 
 ## Compatibility
-The WM battery is compatible with Microsoft Windows (Vista or above) and Apple Mac OS (the battery was tested in macOS Ventura, version 13.2.1). 
+The WM battery is compatible with Microsoft Windows (Vista or above) and Apple Mac OS (the battery was tested in macOS Ventura, versão 13.2.1). 
 
 ## Recommendations
 We recommend using a mouse to administrate the WM battery, especially if you intend to employ the multimodal and/or the symmetry span. 
