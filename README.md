@@ -9,7 +9,7 @@ This page contains an open-source and automated battery of working memory (WM) t
 - It is suitable for group testing, it is completely computer-paced, it has embedded instructions for each task, and it scores itself automatically. 
 - The order of presentation of the tasks is automatically counterbalanced between-participants (on complete administrations).
 - It includes a data processing script that converts all data collected into an easily interpretable format that is ready for data analysis (in platforms like R or SPSS).
-- The instrument is available in Portuguese and English — however, we only assessed the psychometric properties of the former version.
+- The instrument is available in Portuguese and English — however, we only assessed the psychometric properties of the former version. The raw data collected for this study and the imputed databases used to estimate the psychometric properties of the Portuguese version are stored in the homonymous files. 
 
 <sub> * the English version of the battery does not include the reading span.</sub>
 
@@ -41,7 +41,7 @@ Esta página contém uma bateria _open-source_ e automatizada de tarefas de mem�
 - O instrumento pode ser administrado de forma simultânea a vários participantes, é completamente automatizado, possui instruções integradas para cada uma das tarefas e cota os resultados dos participantes em cada uma das provas automaticamente. 
 - A ordem de apresentação das tarefas é contrabalanceada automaticamente entre participantes (em administrações completas).
 - A bateria inclui um script de pré-processamento de dados que converte os dados recolhidos num formato facilmente interpretável e pronto para a análise de dados em plataformas como o R e o SPSS.
-- Esta está disponível em Português e Inglês — porém, só avaliámos as propriedades psicométricas da versão portuguesa.
+- Esta está disponível em Português e Inglês — porém, só avaliámos as propriedades psicométricas da versão portuguesa. Os dados brutos recolhidos durante este estudo e as bases de dados imputadas que foram utilizadas para estimar as propriedades psicométricas da versão portuguesa estão armazenados nos ficheiros homônimos.
 
 <sub> * A versão inglesa da bateria não inclui o reading span. </sub> 
 
