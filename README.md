@@ -1,4 +1,4 @@
-# OpenWMB: An open-source and automated working memory task battery for OpenSesame.
+# OpenWMB: an open-source and automated working memory task battery for OpenSesame.
 
 This page contains an open-source and automated battery of working memory (WM) tasks that tap into different functional aspects of working memory (simultaneous storage and processing of information, continuous updating of mental representations, and binding of information elements into structures).
 
