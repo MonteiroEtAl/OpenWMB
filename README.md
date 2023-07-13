@@ -23,7 +23,7 @@ The OpenWMB is compatible with Microsoft Windows (Vista or above) and Apple macO
 We recommend using a mouse to administrate the battery, especially if you intend to employ the multimodal and/or the symmetry span. 
 
 ## Publications
-- In the near future, we will publish a scientific paper that will report a validation study and describe the features of the OpenWMB in detail. We kindly ask that you cite this work if you use the battery in published research. 
+- Soon, we will publish a scientific paper that will report a validation study and describe the features of the OpenWMB in detail. We kindly ask that you cite this work if you use the battery in published research. 
 - The OpenWMB runs on [OpenSesame](http://osdoc.cogsci.nl/) and uses the [MouseTrap](https://github.com/PascalKieslich/mousetrap-os) plugin. Both these software are open-source. If you use our battery, we kindly ask that you also cite both works, as we would not be able to program and run the battery without them.
 
 ## Contacts
