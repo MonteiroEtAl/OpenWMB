@@ -4,17 +4,17 @@ This page contains an open-source and automated battery of working memory (WM) t
 
 ## Features 
 - The instrument includes three complex spans (reading span, operation span, and symmetry span), two updating tasks (n-back task and memory updating task), and two binding tasks (binding and maintenance task and multimodal span).<sup>*</sup>
-- It was entirely programmed in [OpenSesame](http://osdoc.cogsci.nl/), using both Python and OpenSesame scripting.
-- The battery possesses some flexible features that can be implemented without any programming knowledge. For instance, users can choose to only administrate a portion of the tasks or a single task. 
-- The OpenWMB is suitable for group testing, it is completely computer-paced, it has embedded instructions for each task, and it scores itself automatically. 
+- It was entirely programmed in [OpenSesame](http://osdoc.cogsci.nl/), using Python and OpenSesame scripting.
+- The battery possesses some flexible features that can be implemented without any programming knowledge. For instance, users can choose only to administrate a portion of the tasks or a single task. 
+- The OpenWMB is suitable for group testing, it is entirely computer-paced, it has embedded instructions for each task, and it scores itself automatically. 
 - The order of presentation of the tasks is automatically counterbalanced between-participants (on complete administrations).
 - It includes a data processing script that converts all data collected into an easily interpretable format that is ready for data analysis (in platforms like R or SPSS).
 - The OpenWMB is available in Portuguese and English — however, we only assessed the psychometric properties of the former version. The raw data collected for this study and the imputed databases used to estimate the psychometric properties of the Portuguese version are stored in the homonymous files. 
 
-<sub> * the English version of the battery does not include the reading span.</sub>
+<sub> * The English version of the battery does not include the reading span.</sub>
 
 ## Installing and running the OpenWMB 
-To install and use the battery you need to download the folder that contains the version of the battery that is compatible with your operating system (Windows or Mac OS) and fulfills your language requirements — Portuguese (PT) or English (EN). To do so, left-click on the folder that you intend to download. Next, left-click on the option “View raw”. When the download is completed, unzip the folder containing the OpenWMB and paste it on your desktop. Open the main folder of the battery and read the file called “IMP_what_is_in_this_folder” to get acquainted with the contents of the OpenWMB. Next, read the installation, user, and interpretation guides to learn how to install and use the battery and how to interpret data collected and processed by the scripts included in the battery.
+To install and use the battery, you need to download the folder that contains the version of the battery that is compatible with your operating system (Windows or Mac OS) and fulfils your language requirements — Portuguese (PT) or English (EN). To do so, left-click on the folder that you intend to download. Next, left-click on the option “View raw”. When the download is completed, unzip the OpenWMB folder and paste it on your desktop. Open the main folder of the battery and read the file called “IMP_what_is_in_this_folder” to get acquainted with the contents of the OpenWMB. Next, read the installation, user, and interpretation guides to learn how to install and use the battery and how to interpret data collected and processed by the scripts included in the battery.
 
 ## Compatibility
 The OpenWMB is compatible with Microsoft Windows (Vista or above) and Apple Mac OS (the battery was tested in macOS Ventura, versão 13.2.1). 
