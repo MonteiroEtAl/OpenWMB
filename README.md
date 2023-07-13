@@ -17,7 +17,7 @@ This page contains an open-source and automated battery of working memory (WM) t
 To install and use the battery, you need to download the folder that contains the version of the battery that is compatible with your operating system (Windows or Mac OS) and fulfils your language requirements — Portuguese (PT) or English (EN). Left-click on the folder that you intend to download. Next, left-click on the option “View raw”. When the download is completed, unzip the OpenWMB folder and paste it on your desktop. Open the main folder of the battery and read the file called “IMP_what_is_in_this_folder” to get acquainted with the contents of the OpenWMB. Next, read the installation, user, and interpretation guides to learn how to install and use the battery and how to interpret data collected and processed by the scripts included in the battery.
 
 ## Compatibility
-The OpenWMB is compatible with Microsoft Windows (Vista or above) and Apple Mac OS (the battery was tested in macOS Ventura, versão 13.2.1). 
+The OpenWMB is compatible with Microsoft Windows (Vista or above) and Apple macOS (the battery was tested in macOS Ventura, versão 13.2.1). 
 
 ## Recommendations
 We recommend using a mouse to administrate the battery, especially if you intend to employ the multimodal and/or the symmetry span. 
@@ -49,7 +49,7 @@ Esta página contém uma bateria _open-source_ e automatizada de tarefas de mem�
 Para instalar e utilizar a OpenWMB terá de descarregar a pasta que contém a versão da bateria que é compatível com o seu sistema operativo (Windows ou Mac OS) e que cumpre os seus requisitos de linguagem — português (PT) ou inglês (EN). Para isso, deve pressionar com o botão esquerdo do rato na pasta que contém a versão da bateria que pretende descarregar. De seguida, pressione com o botão esquerdo do rato na opção “_View raw_”. Quando o download terminar, deve descompactar a pasta que contém a OpenWMB e movê-la para o seu ambiente de trabalho. Abra a pasta principal da OpenWMB e leia o ficheiro intitulado “IMP_o_que_contem_esta_pasta” para se familiarizar com os conteúdos do instrumento. A seguir, leia os guias de instalação, de utilizador e de interpretação para aprender a instalar e utilizar a bateria e saber como deve interpretar os dados recolhidos e processados pelos scritps incluídos na bateria.  
 
 ## Compatibilidade
-A OpenWMB é compatível com o Microsoft Windows (Vista ou versões mais recentes) e Apple Mac OS (a bateria foi testada no macOS Ventura, version 13.2.1).
+A OpenWMB é compatível com o Microsoft Windows (Vista ou versões mais recentes) e Apple macOS (a bateria foi testada no macOS Ventura, version 13.2.1).
 
 ## Recomendações
 Recomendamos que utilize um rato durante a administração da bateria, principalmente se pretende administrar o multimodal e/ou o symmetry span. 
