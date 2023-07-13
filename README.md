@@ -55,8 +55,8 @@ A OpenWMB é compatível com o Microsoft Windows (Vista ou versões mais recente
 Recomendamos que utilize um rato durante a administração da bateria, principalmente se pretende utilizar o multimodal span e/ou o symmetry span. 
 
 ## Publicações
-Brevemente, iremos publicar um artigo científico no qual iremos reportar um estudo de validação e descrever as características da OpenWMB em detalhe. Caso utilize este instrumento em qualquer trabalho publicado pedimos encarecidamente que cite este artigo.
-A OpenWMB necessita do [OpenSesame](http://osdoc.cogsci.nl/) e do plugin [MouseTrap](https://github.com/PascalKieslich/mousetrap-os) para funcionar corretamente. Ambos os softwares são _open-source_. Se utilizar a bateria pedimos que também cite estes dois trabalhos.
+- Brevemente, iremos publicar um artigo científico no qual iremos reportar um estudo de validação e descrever as características da OpenWMB em detalhe. Caso utilize este instrumento em qualquer trabalho publicado pedimos encarecidamente que cite este artigo.
+- A OpenWMB necessita do [OpenSesame](http://osdoc.cogsci.nl/) e do plugin [MouseTrap](https://github.com/PascalKieslich/mousetrap-os) para funcionar corretamente. Ambos os softwares são _open-source_. Se utilizar a bateria pedimos que também cite estes dois trabalhos.
 
 ## Contactos
 Se tiver alguma questão ou sugestão relacionados com a bateria ou estudos futuros pode encaminhá-las através do endereço de e-mail uc2021194081@student.uc.pt.
