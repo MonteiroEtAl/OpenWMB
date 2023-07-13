@@ -52,7 +52,7 @@ Para instalar e utilizar a OpenWMB terá de descarregar a pasta que contém a ve
 A OpenWMB é compatível com o Microsoft Windows (Vista ou versões mais recentes) e Apple macOS (a bateria foi testada no macOS Ventura, version 13.2.1).
 
 ## Recomendações
-Recomendamos que utilize um rato durante a administração da bateria, principalmente se pretende administrar o multimodal span e/ou o symmetry span. 
+Recomendamos que utilize um rato durante a administração da bateria, principalmente se pretende utilizar o multimodal span e/ou o symmetry span. 
 
 ## Publicações
 Brevemente, iremos publicar um artigo científico no qual iremos reportar um estudo de validação e descrever as características da OpenWMB em detalhe. Caso utilize este instrumento em qualquer trabalho publicado pedimos encarecidamente que cite este artigo.
