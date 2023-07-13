@@ -32,7 +32,7 @@ If you have any questions or suggestions regarding the battery or future studies
 ---
 
 # OpenWMB: uma bateria _open-source_ e automatizada de tarefas de memória de trabalho para o OpenSesame. 
-Esta página contém uma bateria _open-source_ e automatizada de tarefas de memória de trabalho que avaliam diferentes aspetos funcionais da memória de trabalho (capacidade de armazenar e processar informação de forma simultânea, atualização contínua de representações mentais, capacidade de ligar diferentes características de estímulos e criar novas estruturas relacionais).
+Esta página contém uma bateria _open-source_ e automatizada de tarefas de memória de trabalho que avaliam diferentes aspetos funcionais da memória de trabalho — capacidade de armazenar e processar informação de forma simultânea, atualização contínua de representações mentais, capacidade de ligar diferentes características de estímulos e criar novas estruturas relacionais.
 
 ## Características 
 - O instrumento inclui três complex spans (reading span, operation span e symmetry span), duas updating tasks (n-back task e memory updating task), e duas binding tasks (binding and maintenance task e multimodal span).<sup> * </sup>   
