@@ -5,7 +5,7 @@ This page contains an open-source and automated battery of working memory (WM) t
 ## Features 
 - The instrument includes three complex spans (reading span, operation span, and symmetry span), two updating tasks (n-back task and memory updating task), and two binding tasks (binding and maintenance task and multimodal span).<sup>*</sup>
 - The OpenWMB was entirely programmed in [OpenSesame](http://osdoc.cogsci.nl/), using Python and OpenSesame scripting.
-- The battery possesses some flexible features that can be implemented without any programming knowledge. For instance, users can choose only to administrate a portion of the tasks or a single task. 
+- The battery possesses flexible features that can be implemented without any programming knowledge. For instance, users can choose only to administrate a portion of the tasks or a single task. 
 - The OpenWMB is suitable for group testing, it is entirely computer-paced, it has embedded instructions for each task, and it scores itself automatically. 
 - The order of presentation of the tasks is automatically counterbalanced between-participants (on complete administrations).
 - It includes a data processing script that converts all data collected into an easily interpretable format that is ready for data analysis (in platforms like R or SPSS).
