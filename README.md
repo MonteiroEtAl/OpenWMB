@@ -36,7 +36,7 @@ Esta página contém uma bateria _open-source_ e automatizada de tarefas de mem�
 
 ## Características 
 - O instrumento inclui três complex spans (reading span, operation span e symmetry span), duas updating tasks (n-back task e memory updating task), e duas binding tasks (binding and maintenance task e multimodal span).<sup> * </sup>   
-- Este foi completamente programado em [OpenSesame](http://osdoc.cogsci.nl/), utilizando a linguagem de programação Python e e a linguagem de _scripting_ do OpenSesame .
+- A OpenWMB foi completamente programada em [OpenSesame](http://osdoc.cogsci.nl/), utilizando a linguagem de programação Python e a linguagem de _scripting_ do OpenSesame .
 - A bateria possui algumas características flexíveis que podem ser implementadas sem nenhum conhecimento de programação. Por exemplo, os utilizadores podem administrar apenas uma parte das tarefas ou até uma só prova.
 - A OpenWMB pode ser administrada de forma simultânea a vários participantes, é completamente automatizada, possui instruções integradas para cada uma das tarefas e cota os resultados dos participantes em cada uma das provas automaticamente. 
 - A ordem de apresentação das tarefas é contrabalanceada automaticamente entre participantes (em administrações completas).
