@@ -59,4 +59,4 @@ Brevemente, iremos publicar um artigo científico no qual iremos reportar um est
 A OpenWMB necessita do [OpenSesame](http://osdoc.cogsci.nl/) e do plugin [MouseTrap](https://github.com/PascalKieslich/mousetrap-os) para funcionar corretamente- Ambos os softwares são _open-source_. Se utilizar a bateria pedimos que também cite estes dois trabalhos.
 
 ## Contactos
-Se tiver alguma questão ou sugestão relacionados com a bateria ou estudos futuros pode direcioná-las para o endereço de e-mail uc2021194081@student.uc.pt.
+Se tiver alguma questão ou sugestão relacionados com a bateria ou estudos futuros pode encaminhá-las através do endereço de e-mail uc2021194081@student.uc.pt.
