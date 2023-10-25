@@ -9,7 +9,7 @@ This page contains an open-source and automated battery of working memory (WM) t
 - The OpenWMB is suitable for group testing, is entirely computer-paced, has embedded instructions for each task, and has automatic scoring. 
 - The order of presentation of the tasks is automatically counterbalanced between-participants (on complete administrations).
 - It includes a data processing script that converts all data collected into an easily interpretable format that is ready for data analysis (in platforms like R or SPSS).
-- The OpenWMB is available in Portuguese and English — however, we only assessed the psychometric properties of the former version. The raw data collected for this study and the imputed databases used to estimate the psychometric properties of the Portuguese version are stored in the homonymous files. 
+- The OpenWMB is available in Portuguese and English — however, we only assessed the psychometric properties of the former version. The raw data collected for this study and the imputed databases used to estimate the psychometric properties of the Portuguese version are stored in the files named "Raw_Data_Validation_PT_version.xlsx" and "Imputed_Databases_Validation_PT_version.xlsx", respectively. 
 
 <sub> * The English version of the battery does not include the reading span.</sub>
 
@@ -41,7 +41,7 @@ Esta página contém uma bateria _open-source_ e automatizada de tarefas de mem�
 - A OpenWMB pode ser administrada de forma simultânea a vários participantes, é completamente automatizada, possui instruções integradas para cada uma das tarefas e cota automaticamente os resultados dos participantes em cada uma das provas. 
 - A ordem de apresentação das tarefas é contrabalanceada automaticamente entre participantes (em administrações completas).
 - A bateria inclui um script de pré-processamento de dados que converte os dados recolhidos num formato facilmente interpretável e pronto para a análise de dados em plataformas como o R e o SPSS.
-- A OpenWMB está disponível em Português e Inglês — porém, só avaliámos as propriedades psicométricas da versão portuguesa. Os dados brutos recolhidos durante este estudo e as bases de dados imputadas que foram utilizadas para estimar as propriedades psicométricas da versão portuguesa estão armazenados nos ficheiros homônimos.
+- A OpenWMB está disponível em Português e Inglês — porém, só avaliámos as propriedades psicométricas da versão portuguesa. Os dados brutos recolhidos durante este estudo e as bases de dados imputadas que foram utilizadas para estimar as propriedades psicométricas da versão portuguesa estão armazenados nos ficheiros intitulados "Raw_Data_Validation_PT_version.xlsx" e "Imputed_Databases_Validation_PT_version.xlsx", respectivamente.
 
 <sub> * A versão inglesa da bateria não inclui o reading span. </sub> 
 
