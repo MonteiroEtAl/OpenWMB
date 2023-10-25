@@ -13,7 +13,7 @@ This page contains an open-source and automated battery of working memory (WM) t
 
 <sub> * The English version of the battery does not include the reading span.</sub>
 
-## ## Installing and running the OpenWMB, and interpret data collected with the battery 
+## Installing and running the OpenWMB, and interpret data collected with the battery 
 To install and use the battery, you need to download the folder containing the version of the battery that is compatible with your operating system (Windows or macOS) and fulfils your language requirements — Portuguese (PT) or English (EN). Left-click on the folder that you intend to download. Next, left-click on the option “View raw”. When the download is completed, unzip the OpenWMB folder and paste it on your desktop. Open the main folder of the battery and read the file called “IMP_what_is_in_this_folder” to get acquainted with the contents of the OpenWMB. Next, read the installation, user, and interpretation guides to learn how to install and use the battery and how to interpret data collected and processed by the scripts included in the battery.
 
 ## Compatibility
