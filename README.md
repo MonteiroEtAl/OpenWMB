@@ -31,7 +31,7 @@ It is important to consult these files thoroughly to learn how to run the batter
 
 
 ## Compatibility
-The OpenWMB is compatible with Microsoft Windows (Vista or above) and Apple macOS (the battery was tested in macOS Ventura, versão 13.2.1). 
+The OpenWMB is compatible with Microsoft Windows (Vista or above) and Apple macOS (the battery was tested in macOS Ventura, version 13.2.1). 
 
 ## Recommendations
 We recommend using a mouse to administrate the battery, especially if you intend to employ the multimodal and/or the symmetry span. 
