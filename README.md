@@ -55,7 +55,7 @@ Esta página contém uma bateria _open-source_ e automatizada de tarefas de mem�
 - A OpenWMB pode ser administrada de forma simultânea a vários participantes, é completamente automatizada, possui instruções integradas para cada uma das tarefas e cota automaticamente os resultados dos participantes em cada uma das provas. 
 - A ordem de apresentação das tarefas é contrabalanceada automaticamente entre participantes (em administrações completas).
 - A bateria inclui um script de pré-processamento de dados que converte os dados recolhidos num formato facilmente interpretável e pronto para a análise de dados em plataformas como o R e o SPSS.
-- A OpenWMB está disponível em Português e Inglês — porém, só avaliámos as propriedades psicométricas da versão portuguesa. Os dados brutos recolhidos durante este estudo e as bases de dados imputadas que foram utilizadas para estimar as propriedades psicométricas da versão portuguesa estão armazenados nos ficheiros intitulados "Raw_Data_Validation_PT_version.xlsx" e "Imputed_Databases_Validation_PT_version.xlsx", respectivamente.
+- A OpenWMB está disponível em Português e Inglês — porém, só avaliámos as propriedades psicométricas da versão portuguesa. Os dados brutos recolhidos durante este estudo e as bases de dados imputadas que foram utilizadas para estimar as propriedades psicométricas da versão portuguesa estão armazenados nos ficheiros intitulados "Raw_Data_Validation_PT_version.xlsx" e "Imputed_Databases_Validation_PT_version.xlsx", respetivamente.
 
 <sub> * A versão inglesa da bateria não inclui o reading span. </sub> 
 
