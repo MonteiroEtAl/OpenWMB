@@ -87,5 +87,3 @@ Recomendamos que utilize um rato durante a administração da bateria, principal
 
 ## Contactos
 Se tiver alguma questão ou sugestão relacionados com a bateria ou estudos futuros pode encaminhá-las através do endereço de e-mail uc2021194081@student.uc.pt.
-
-[![DOI](https://sandbox.zenodo.org/badge/662678370.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.25019)
