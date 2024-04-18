@@ -37,7 +37,7 @@ The OpenWMB is compatible with Microsoft Windows (Vista or above) and Apple macO
 We recommend using a mouse to administrate the battery, especially if you intend to employ the multimodal and/or the symmetry span. 
 
 ## Publications
-- Soon, we will publish a scientific paper that will report a validation study and describe the features of the OpenWMB in detail. We kindly ask that you cite this work if you use the battery in published research. 
+- Monteiro, F., Nascimento, L.B., Leitão, J. et al. OpenWMB: An open-source and automated working memory task battery for OpenSesame. Behav Res (2024). https://doi.org/10.3758/s13428-024-02397-1. We kindly ask that you cite this work if you use the battery in published research. 
 - The OpenWMB runs on [OpenSesame](http://osdoc.cogsci.nl/) and uses the [MouseTrap](https://github.com/PascalKieslich/mousetrap-os) plugin. Both software are open-source. If you use our battery, we kindly ask that you also cite these tools, as we would not be able to program and run the battery without them.
 
 ## Contacts
@@ -82,7 +82,7 @@ A OpenWMB é compatível com o Microsoft Windows (Vista ou versões mais recente
 Recomendamos que utilize um rato durante a administração da bateria, principalmente se pretende utilizar o multimodal span e/ou o symmetry span. 
 
 ## Publicações
-- Brevemente iremos publicar um artigo científico no qual iremos reportar um estudo de validação e descrever as características da OpenWMB em detalhe. Caso utilize este instrumento em qualquer trabalho publicado pedimos encarecidamente que cite este artigo.
+- Monteiro, F., Nascimento, L.B., Leitão, J. et al. OpenWMB: An open-source and automated working memory task battery for OpenSesame. Behav Res (2024). https://doi.org/10.3758/s13428-024-02397-1. Caso utilize este instrumento em qualquer trabalho publicado pedimos encarecidamente que cite este artigo.
 - A OpenWMB necessita do [OpenSesame](http://osdoc.cogsci.nl/) e do plugin [MouseTrap](https://github.com/PascalKieslich/mousetrap-os) para funcionar corretamente. Ambos os softwares são _open-source_. Se utilizar a bateria pedimos que também cite estes dois trabalhos.
 
 ## Contactos
