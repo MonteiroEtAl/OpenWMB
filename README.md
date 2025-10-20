@@ -8,7 +8,7 @@ This page contains an open-source and automated battery of working memory (WM) t
 - The battery possesses flexible features that can be implemented without any programming knowledge. For instance, users can choose to only administrate a portion of the tasks or a single task. 
 - The OpenWMB is suitable for group testing, is entirely computer-paced, has embedded instructions for each task, and has automatic scoring. 
 - The order of presentation of the tasks is automatically counterbalanced between-participants (on complete administrations).
-- It includes a data processing script that converts all data collected into an easily interpretable format that is ready for data analysis (in platforms like R or SPSS).
+- It includes a data processing script (written in Python) that converts all data collected into an easily interpretable format that is ready for data analysis (in platforms like R or SPSS).
 - The OpenWMB is available in Portuguese and English — however, we only assessed the psychometric properties of the former version. The raw data collected for this study and the imputed databases used to estimate the psychometric properties of the Portuguese version are stored in the files named "Raw_Data_Validation_PT_version.xlsx" and "Imputed_Databases_Validation_PT_version.xlsx", respectively. The file "Code_Statistical_Analysis.R" contains the code that was used to compute all the analyses that were carried out to assess the psychometric properties of the Portuguese version of the OpenWMB. If you intend to replicate these analyses, please read the comments provided in the first eight lines of the R file very carefully.  
 
 <sub> * The English version of the battery does not include the reading span.</sub>
